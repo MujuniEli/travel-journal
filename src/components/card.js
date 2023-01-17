@@ -1,5 +1,5 @@
 
-import icon from "../images/pin.png"
+import icon from "../images/loc-pin.png"
 
 export default function Card(props) {
     return (

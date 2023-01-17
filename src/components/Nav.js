@@ -1,5 +1,5 @@
 
-import navimg from "../images/earth.png"
+import navimg from "../images/glob.png"
 
 export default function Nav() {
     return (

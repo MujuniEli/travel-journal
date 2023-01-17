@@ -37,9 +37,8 @@ img {
 
 .nav > img {
             
-            width: 24px;
+            background: #F55A5A;
             height: 24px;
-            background: #FFFFFF;
             margin-right:8px;
 }
 
@@ -70,10 +69,10 @@ img {
 }
 
 .sm-title > img {
-                  width: 7px;
-                  height: 9.55px;
-                  background: #F55A5A;
-                  margin-right: 4px;
+                  width: 20px;
+                  height: 20.55px;
+                  
+                  margin-right: 2px;
 }
 
 .country {
