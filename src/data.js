@@ -21,7 +21,7 @@ export default [
         startDate: "27 Dec, 2019",
         endDate: "8 Jan, 2020",
         description: "One of the most vibrant cities in africa. Located in the Eastern part of Africa Nairobi is the capital City for the country Kenya, it is often regarded as one of the 20th century's most famous and distinctive cities in the world.",
-        imageUrl: "https://source.unsplash.com/dGUXKJZGDSg"
+        imageUrl: "https://source.unsplash.com/GkGypArrcuQ"
     },
 
     {
