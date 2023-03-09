@@ -9,7 +9,7 @@ export default [
         googleMapsUrl: "https://www.google.com/maps/d/viewer?hl=en&ie=UTF8&oe=UTF8&msa=0&mid=1o2cUkUb6MuCeiDOQKlo65xgwxAE&ll=-1.963425552249835%2C30.08857010577394&z=14",
         startDate: "12 Nov, 2018",
         endDate: "24 Nov, 2018",
-        description: "Kigali is one of the most beautiful cities in Eastern Africa, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+        description: "Kigali is one of the most beautiful cities in Eastern Africa, standing at 3,776 meters (12,380 feet). Kigali is the single most popular tourist site in Rwanda, for both Rwandese and foreign tourists.",
         imageUrl: "https://source.unsplash.com/8yTyCF4epts"
     },
 
