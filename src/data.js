@@ -4,24 +4,24 @@
 export default [
     {
         id:1,
-        title: "Mount Fuji",
-        location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "12 Jan, 2021",
-        endDate: "24 Jan, 2021",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
+        title: "Kigali",
+        location: "Rwanda",
+        googleMapsUrl: "https://www.google.com/maps/d/viewer?hl=en&ie=UTF8&oe=UTF8&msa=0&mid=1o2cUkUb6MuCeiDOQKlo65xgwxAE&ll=-1.963425552249835%2C30.08857010577394&z=14",
+        startDate: "12 Nov, 2018",
+        endDate: "24 Nov, 2018",
+        description: "Kigali is one of the most beautiful cities in Eastern Africa, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+        imageUrl: "https://source.unsplash.com/8yTyCF4epts"
     },
 
     {
         id:2,
-        title: "Sydney Opera House",
-        location: "Australia",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "27 May, 2021",
-        endDate: "8 Jun, 2021",
-        description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
-        imageUrl: "https://source.unsplash.com/P2PNbJbSw74"
+        title: "Nairobi",
+        location: "Kenya",
+        googleMapsUrl: "https://www.google.com/maps/d/viewer?mid=1_-ZzPMEaQVHnnvr2FmTmcmLYpXo&hl=en_US&ll=-1.2791139893259742%2C36.86479550000001&z=13",
+        startDate: "27 Dec, 2019",
+        endDate: "8 Jan, 2020",
+        description: "One of the mist vibrant cities in africa. Located in the Eastern part of Africa Nairobi is the capital City for the country Kenya, it is often regarded as one of the 20th century's most famous and distinctive buildings",
+        imageUrl: "https://source.unsplash.com/dGUXKJZGDSg"
     },
 
     {
@@ -33,5 +33,29 @@ export default [
         endDate: "18 Nov, 2021",
         description: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality.",
         imageUrl: "https://source.unsplash.com/3PeSjpLVtLg"
+    },
+
+    {
+        id:4,
+        title: "Mount Fuji",
+        location: "Japan",
+        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        startDate: "12 Jan, 2021",
+        endDate: "24 Jan, 2021",
+        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+        imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
+    },
+
+    {
+        id:5,
+        title: "Sydney Opera House",
+        location: "Australia",
+        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+        startDate: "27 May, 2021",
+        endDate: "8 Jun, 2021",
+        description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of the Sydney Harbour, it is often regarded as one of the 20th century's most famous and distinctive buildings",
+        imageUrl: "https://source.unsplash.com/P2PNbJbSw74"
     }
+
+    
 ]
