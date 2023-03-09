@@ -20,7 +20,7 @@ export default [
         googleMapsUrl: "https://www.google.com/maps/d/viewer?mid=1_-ZzPMEaQVHnnvr2FmTmcmLYpXo&hl=en_US&ll=-1.2791139893259742%2C36.86479550000001&z=13",
         startDate: "27 Dec, 2019",
         endDate: "8 Jan, 2020",
-        description: "One of the mist vibrant cities in africa. Located in the Eastern part of Africa Nairobi is the capital City for the country Kenya, it is often regarded as one of the 20th century's most famous and distinctive buildings",
+        description: "One of the most vibrant cities in africa. Located in the Eastern part of Africa Nairobi is the capital City for the country Kenya, it is often regarded as one of the 20th century's most famous and distinctive buildings",
         imageUrl: "https://source.unsplash.com/dGUXKJZGDSg"
     },
 
