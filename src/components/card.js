@@ -9,7 +9,7 @@ export default function Card(props) {
                         <div className="sm-title">
                             <img src={icon} alt="location pin icon" />
                             <p className="country">{props.item.location}</p>
-                            <a href={props.item.googleMapsUrl}>View on Google Maps</a>
+                            <a href={props.item.googleMapsUrl} target="_blank" rel="noreferrer">View on Google Maps</a>
                         </div>
                         <h2 className="landmark">{props.item.title}</h2>
                         <h4>{props.item.startDate} - {props.item.endDate}</h4>
