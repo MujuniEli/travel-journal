@@ -9,3 +9,9 @@
 
 
   This project was key in helping me understand React concepts like handling props and destructuring objects.
+  
+  
+
+### Live Site: [travel journal](https://elistraveljournal.netlify.app/)
+  
+  
